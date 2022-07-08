@@ -50,6 +50,10 @@ OBJETIVOS ESPECIFICOS CAPITULO 10
 ![Captura de pantalla 2022-07-08 012017](https://user-images.githubusercontent.com/105680816/177929329-2fe6773b-15e5-4491-8448-9eff0754c3b8.png)
 ![Captura de pantalla 2022-07-08 012514](https://user-images.githubusercontent.com/105680816/177929956-15a3b00d-d688-4cfb-9bf2-4531d964b56b.png)
 
+                                                                       3.EJERCICIOS
+                                                                       
+ ![Captura de pantalla 2022-07-08 084551](https://user-images.githubusercontent.com/105680816/178004450-31c184e5-f158-400c-8023-209a6b1c18a7.png)
+
 
                                                                         4. VIDEO
 
