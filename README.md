@@ -60,10 +60,8 @@ https://youtu.be/XOxwxBdEa24
 
                                                                     5. CONCLUSIONES
 
-Podemos concluir que los circuitos eléctricos son controlados por fuentes de voltaje o de corriente, es importante entender cómo funcionan estos elementos. 
-El teorema de superposición nos ayudará a abordar circuitos que tienen múltiples fuentes. Los teoremas de Thevenin y de Norton ponen a nuestro alcance métodos 
-apropiados para reducir un circuito a una forma equivalente simple con el propósito de facilitar su análisis. El teorema de transferencia de potencia máxima se 
-utiliza en aplicaciones donde es importante que un circuito dado proporcione potencia máxima a una carga.
+Se concluye utilizar la regla de la mano derecha para establecer la dirección de las líneas de fuerza electromagnéticas presentes alrededor de un conductor. 
+Un electroimán es básicamente una bobina de alambre alrededor de un núcleo magnético. Cuando un conductor se mueve adentro de un campo magnético, o cuando un campo magnético se mueve con respecto a un conductor, se induce un voltaje entre los extremos del conductor. Mientras más rápido es el movimiento relativo entre un conductor y un campo magnético, más grande es el voltaje inducido. 
 
                                                                       6. BIBLIOGRAFÍA
 
